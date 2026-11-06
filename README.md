@@ -1,7 +1,7 @@
  👋 Hi, I'm Shivasailanathan R
 
-- Mechatronics Engineer
-- Trying to specialize in ECE domains of Hardware/PCB Design & CAD
-- Interested in Analog electronics/ EDC and business management
-- Current Focus on learning PCB Layouts (Altium Designer / KiCAD)
+### Technical Stack & Toolchain
+- **ECAD / PCB Design:** KiCad 10.0.8 (Schematic Capture, 2-Layer Layout, DFM, Gerber Outputs)
+- **MCAD / Enclosures:** SolidWorks (Part Modeling, GD&T, 3D STEP Assembly)
+- **Manufacturing & Logistics:** IIP Packaging Standards, BOM CSV Exports, Assembly Documentation
 
